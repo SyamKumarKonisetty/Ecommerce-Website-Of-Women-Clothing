@@ -17,9 +17,4 @@ Project consist following pages:
 - Search page / no search results
   - Page displays searching results in form similar to homepage. There is a card with image and short info about specs and price of each product.
     When keyword enter into searchbox isn't match any product, search icon is displayed along with text informing user that product is not found.
-- Checkout page (available after user login)
-  - Page similar to cart page but the difference is that user can't update any product details. This is summary before payment. Page displays product thumbnail, name, quantity, price and total price. Below that user has payment form to fill in with user details and card details. After payment user is redirected to homepage.
-- Login
-  - Page allows user to login (user get access to checkout page and payment functionality)
-- Registration
-  - Page allows user to create an account (user get access to login functionality)
+
